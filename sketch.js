@@ -7,7 +7,7 @@ var paper, dustbin1, dustbin2, dustbin3, ground, dustbinImg, dustbin;
 
 function preload()
 {
-	dustbinImg = loadImage("sprite/dustbingreen.png")
+	dustbinImg = loadImage("dustbingreen.png")
 }
 
 function setup() {
